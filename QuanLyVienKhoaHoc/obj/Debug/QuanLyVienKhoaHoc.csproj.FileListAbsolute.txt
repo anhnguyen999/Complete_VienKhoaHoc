@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyVienKhoaHoc\QuanLyVienKhoaHoc\bin\Debug\QuanLyVienKhoaHoc.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyVienKhoaHoc\QuanLyVienKhoaHoc\obj\Debug\QuanLyVienKhoaHoc.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyVienKhoaHoc\QuanLyVienKhoaHoc\bin\Debug\QuanLyVienKhoaHoc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyVienKhoaHoc\QuanLyVienKhoaHoc\bin\Debug\QuanLyVienKhoaHoc.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyVienKhoaHoc\QuanLyVienKhoaHoc\obj\Debug\QuanLyVienKhoaHoc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyVienKhoaHoc\QuanLyVienKhoaHoc\obj\Debug\QuanLyVienKhoaHoc.pdb
